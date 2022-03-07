@@ -1,0 +1,1 @@
+#!/bin/bash \n tail -n grep -i -v "bin" /etc/passwd

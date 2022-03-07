@@ -1,0 +1,1 @@
+#!/bin/bash \n tail -n ls-t1 | head -n 10

@@ -1,0 +1,1 @@
+#!/bin/bash \n tail -n find . -empty | rev | cut -d / -f 1 | rev
